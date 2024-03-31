@@ -1,0 +1,36 @@
+h1{
+    font-size: 13px;
+    background-color: rgb(253, 237, 255);
+    color: rgb(43, 6, 68);
+}
+
+h2{
+    background-color: rgb(253, 237, 255);
+    color: rgb(43, 6, 68);
+}
+
+
+h3{ 
+    background-color: rgb(253, 237, 255);
+color: rgb(43, 6, 68);
+
+}
+
+h4{
+    font-size: small;
+    background-color: rgb(253, 237, 255);
+    color:rgb(43, 6, 68) ;
+}
+
+h5{ 
+    font-size: 8px;
+    font-weight: 100px;
+}
+
+body{ 
+    background-color: rgb(237, 210, 255);
+}
+
+p{
+    font-size: 12px;
+}
